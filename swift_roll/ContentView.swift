@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  swift_roll
-//
-//  Created by Alexander Burgos on 11/21/22.
-//
-
 import SwiftUI
 
 struct ContentView: View {
